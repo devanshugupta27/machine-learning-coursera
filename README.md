@@ -1,2 +1,3 @@
 # machine-learning-coursera
-The programming codes from the Machine Learning Course taught by Prof. Andrew Ng.
+These are my Codes of the programming assignments for Prof. Andrew Ng's Machine Learning Course offered on Coursera.
+I will update the repository as soon as finish the weekly assignment.
